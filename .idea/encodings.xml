@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/c/C_Articles.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/c/C_Auth.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/c/C_Cart.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/c/C_News.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/c/C_Order.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/c/C_Photo_services.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/c/C_Products.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/c/C_Reg.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/index.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m/M_Cart.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m/M_MSQL.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m/M_News.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m/M_Order.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m/startup.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v/v_all_orders.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v/v_cart.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v/v_form_registration.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v/v_index_news.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v/v_index_product.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v/v_index_services.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v/v_login.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v/v_news_add.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v/v_news_edit.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v/v_order.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v/v_product_add.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v/v_product_edit.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v/v_product_edit_one.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v/v_product_one.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v/v_service_add.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v/v_service_edit.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v/v_service_one.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/views/BOX_Super_User.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/views/Box_Add_New_Product.php" charset="UTF-8" />
+  </component>
+</project>
